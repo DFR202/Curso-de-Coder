@@ -1,6 +1,16 @@
-# Curso-de-Coder
+# Proyecto Rindes de Cultivos
 
-Foobar is a Python library for dealing with word pluralization.
+## Resumen
+En este proyecto se trabajará con dos Dataset.  El primero provisto por el Servicio Meteorologíco de la Republica Argentina y el segundo dataset proviene de la Subsecretaria de Agricultura, Dirección Nacional de Agricultura, Dirección de Estimaciones Agrícolas. En el siguiente link puede encontrarse el dataset https://datosestimaciones.magyp.gob.ar/reportes.php?reporte=Estimaciones y https://www.argentina.gob.ar/smn/institucional/contacto.
+
+El dataset provisto por la Subsecretaria de Agricultura contiene una serie de estadística agrícola por cultivo, campaña, provincia y departamento de la República Argentina con los siguientes datos: superficie sembrada, superficie cosechada, producción y rendimiento. Las superficies se muestran en hectáreas, la producción en toneladas y el rendimiento en kg/ha.
+El segundo dataset provisto por el Servicio Meteorologíco contiene la temperatura diaria desde 1988 al 2022 de Junin y Tres Arroyos tanto en tanto las precipitaciones  y temperatura máxima, media, mínima.  
+
+## Diccionario de Variables
+A continuación se brinda el listado de variables utilizadas en el proyecto:
+
+
+
 
 ## Installation
 
